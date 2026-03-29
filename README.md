@@ -74,7 +74,7 @@ This requires additional FSM layers to correctly model expressions like:
 
 state diagram :
 
-![FSM Diagram](docs/state_diagram.png)
+![FSM Diagram](doc/state_diagram.jpg)
 
 ---
 
