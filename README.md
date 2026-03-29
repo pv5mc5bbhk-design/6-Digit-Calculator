@@ -112,15 +112,13 @@ state diagram :
 ---
 
 ## Project Structure
-
-
 .
 ├── README.md
 ├── docs/
-│ ├── state_diagram.png
-│ └── architecture.png
+   ├── state_diagram.png
+   └── architecture.png
 ├── circuit/
-│ └── calculator.circ
+└── calculator.circ
 
 
 ---
