@@ -73,7 +73,8 @@ This requires additional FSM layers to correctly model expressions like:
   - Precedence handling state (A+Nx, A-Nx, etc.)
 
 state diagram :
-
+![Architecture](doc/architecture_diagram.jpg)
+![Architecture](doc/architecture_diagram2.jpg)
 ![FSM Diagram](doc/state_diagram.jpg)
 
 ---
@@ -112,13 +113,15 @@ state diagram :
 ---
 
 ## Project Structure
+``` 
 .
 ├── README.md
-├── docs/
-   ├── state_diagram.png
-   └── architecture.png
-├──Calculator.circ
-
+├── doc/
+│   ├── state_diagram.jpg
+    ├── architecture_diagram.jpg
+│   └── architecture_diagram2.jpg
+├── calculator.circ
+```
 
 ---
 
