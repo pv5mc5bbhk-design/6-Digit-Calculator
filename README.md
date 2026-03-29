@@ -117,8 +117,7 @@ state diagram :
 ├── docs/
    ├── state_diagram.png
    └── architecture.png
-├── circuit/
-└── calculator.circ
+├──Calculator.circ
 
 
 ---
